@@ -9,4 +9,6 @@ Click on the character to start shooting.
 Blinking name indicates the current turn.
 Wind direction is right below health bar.
 
+https://soleduo.itch.io/duelarchers
+
 Have fun!
